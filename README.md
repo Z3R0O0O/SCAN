@@ -6,10 +6,10 @@ Prof. Ms. Fábio Henrique Cabrini
 
 
 ### Integrantes do grupo:
-Danilo da Gama Campos, RM99680
-Eduardo do Nascimento Silva, RM99225
-Gustavo Duarte Bezerra da Silva, RM99774
-Henrique Batista de Souza, RM99742
++ Danilo da Gama Campos, RM99680
++ Eduardo do Nascimento Silva, RM99225
++ Gustavo Duarte Bezerra da Silva, RM99774
++ Henrique Batista de Souza, RM99742
 
 
 ### Objetivo:
@@ -18,7 +18,7 @@ há um fiware aberto e cria um arquivo .txt, falando quando outras estão aberta
 
 
 ### Especificações da VM:
-RAM: 4GB
-Processadores: 8
-Memória: 20GB
-Sistema Operacional: Ubuntu 22.04.3
++ RAM: 4GB
++ Processadores: 8
++ Memória: 20GB
++ Sistema Operacional: Ubuntu 22.04.3
