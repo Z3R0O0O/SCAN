@@ -1,8 +1,8 @@
 # Faculdade de Informática e Administração Paulista - FIAP
 
 #### Defesa Cibernética
-### Code for Security
-### Prof. Ms. Fábio Henrique Cabrini
+Code for Security
+Prof. Ms. Fábio Henrique Cabrini
 
 
 ### Integrantes do grupo:
@@ -12,12 +12,12 @@ Gustavo Duarte Bezerra da Silva, RM99774
 Henrique Batista de Souza, RM99742
 
 
-Objetivo:
+### Objetivo:
 Código criado para escanear as portas abertas de um linux Ubuntu, usando a biblioteca do 'nmap' e ao encontrar algumas portas especificas abertas, ele avisa se 
 há um fiware aberto e cria um arquivo .txt, falando quando outras estão abertas
 
 
-Especificações da VM:
+### Especificações da VM:
 RAM: 4GB
 Processadores: 8
 Memória: 20GB
