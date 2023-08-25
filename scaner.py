@@ -21,10 +21,10 @@ def scan_ports(host, ports):
             portas_abertas.append(port)
     return portas_abertas
 
-def save_results(filename, results):
-    with open(filename, 'w') as file:
+def save_results(filename, results):                    # Função que salva os resultados dentros do arquivo
+    with open(filename, 'w') as file:                   # Permite com que escreva dentro dele
         for portas in results:
-            file.write(f"Porta {portas}: Aberta\n")
+            file.write(f"Porta {portas}: Aberta\n")     # Formato em que a mensagem aparece no arquivo
 
 def main():
     ip_alvo = "127.0.0.1"           # IP onde haverá o escaneamento
