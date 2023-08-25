@@ -13,8 +13,7 @@ Prof. Ms. Fábio Henrique Cabrini
 
 
 ### Objetivo:
-Código criado para escanear as portas abertas de um linux Ubuntu, usando a biblioteca do 'nmap' e ao encontrar algumas portas especificas abertas, ele avisa se 
-há um fiware aberto e cria um arquivo .txt, falando quando outras estão abertas
+Código criado para escanear as portas abertas de um linux Ubuntu, usando a biblioteca 'socket' para fazer nossa própria versão do 'nmap', para fazer o escaneamento das portas e ao encontrar algumas portas especificas abertas, ele avisa se há um fiware aberto e cria um arquivo .txt, falando quando outras estão abertas
 
 
 ### Especificações da VM:
